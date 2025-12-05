@@ -1,0 +1,8 @@
+qu'as tu appris ? 
+j'ai révisé les commandes pour passer merge, push, pull ...
+
+quel commande ?
+git merge m'as été le plus utile
+
+quel partie difficile ?
+aucune était spécialement plus dur
